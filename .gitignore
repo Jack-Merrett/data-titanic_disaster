@@ -29,3 +29,6 @@ mlruns
 
 # Challengify - test challengification files
 *_challengify*
+
+# Other stuff to ignore:
+titanic_disaster.ipynb
